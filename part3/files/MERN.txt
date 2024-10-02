@@ -1,0 +1,4 @@
+M=stands for mongoDb
+E=stands for express
+R=stands for react 
+N=stand for NodeJs
